@@ -25,6 +25,7 @@ To ensure that this wasn't just a problem with Tables, I built a cross-dimension
 ## Practical Recommendations for Management
 1. Cap Discounts at 20%: Stop offering promotions higher than 20% on expensive categories like Tables and Machines.
 2. Review Tables Pricing: Since tables are highly profitable at full price, restructure the base cost to protect margins during promotions.
+## Project Dashboard
+* Interactive Tableau Visuals: https://public.tableau.com/authoring/erikasc/Sheet4#1
  ## Project Dashboard
    https://public.tableau.com/authoring/erikasc/Sheet4#1
-4. Review Tables Pricing: Since tables are highly profitable at full price, restructure the base cost to protect margins during promotions.
